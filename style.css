@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  
+body {
+  background-color: #c8bbb2;
+  color: #454545;
+  font-family: Perpetua;
+  text-align: center;
+}
+  
+h1 {
+  font-size: 400%
+}
+  
+h2 {
+  font-size: 200%
+}
+  
+h3 {
+  font-size: 150%
+}
+  
+h4 {
+  font-size: 100%;
+  margin: 5px;
+}
+  
+button {
+  background-color: #c8bbb2;
+  border: solid 5px #454545;
+  color: #454545;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 60px;
+  font-family: Perpatua;
+  margin: 4px 2px;
+  cursor: pointer;
+}
